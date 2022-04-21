@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Justas Gražulevičius
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Front-End developing HTML, CSS and JavaScript!
+- 👀 I’m interested in .NET and Front-End development
+- 🌱 I’m currently learning HTML, CSS, JavaScript and C# as well!
 - 📫 You may reach me at LinkedIn: https://www.linkedin.com/in/justasgraz/
