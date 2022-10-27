@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Justas Gražulevičius
-- 👀 I’m interested in .NET, Java, Front-End, PHP, Swift development
-- 🌱 I’m currently learning .NET and Java!
+- 👀 I’m interested in Java, .NET, Front-End, PHP, Swift development
+- 🌱 I’m currently learning Java!
 - 📫 You may reach me at LinkedIn: https://www.linkedin.com/in/justasgraz/
