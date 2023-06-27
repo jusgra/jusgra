@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Justas Gražulevičius
 - 👀 I’m currently checking and trying to find out what suits me best in the coding world
 - 🖥️ I do have some experience with Front-End development, Java and .NET 
 - 🌱 I’m currently building personal projects with HTML, CSS, JavaScript, Node and React!
-- 📫 You may reach me at LinkedIn: https://www.linkedin.com/in/justasgraz/
